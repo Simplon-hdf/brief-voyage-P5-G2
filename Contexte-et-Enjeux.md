@@ -1,6 +1,6 @@
 # Contexte et Enjeux
 
-**Kékéy Voyages** est une agence de voyages qui propose actuellement des services de réservation de billets d'avion uniquement en présentiel. L'agence a décidé d'étendre ses services en ligne et de permettre à ses clients de réserver leurs billets d'avion via une plateforme en ligne.
+**Kékés Voyages** est une agence de voyages qui propose actuellement des services de réservation de billets d'avion uniquement en présentiel. L'agence a décidé d'étendre ses services en ligne et de permettre à ses clients de réserver leurs billets d'avion via une plateforme en ligne.
 
 ## Défis et besoins principaux :
 - **Besoins d'un système de réservation en ligne**: Actuellement, tous les processus de réservation sont effectués de manière traditionnelle et en personne. Ce système aidera l'entreprise à simplifier les processus de réservation et permettra aux clients d'acheter facilement leurs billets en ligne.
