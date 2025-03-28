@@ -43,7 +43,7 @@
 - **RG33** : Une réservation doit avoir un horaire.  
 - **RG34** : Une réservation doit avoir un prix.  
 - **RG35** : Une réservation doit inclure le choix d’une ou plusieurs places.  
-- **RG36** : Le client reçoit un e-mail contenant son billet après la réservation.
+- **RG36** : Le client doit recevoir un e-mail contenant son billet après la réservation
 - **RG37** : Une réservation peut inclure une ou plusieurs escales.
 
 ---
