@@ -21,7 +21,8 @@
 - **RG17** : Un client doit recevoir un e-mail au moment de la réservation.  
 - **RG18** : Un client doit être connecté pour effectuer une réservation.  
 - **RG19** : Un client peut contacter le service après-vente.
-- **RG20** : Un client doit saisir sa nationalité pour reserver un billet.
+- **RG20** : Un client doit saisir la nationalité du passager pour réserver un billet.
+
 
 ---
 
@@ -42,37 +43,38 @@
 - **RG33** : Une réservation doit avoir un horaire.  
 - **RG34** : Une réservation doit avoir un prix.  
 - **RG35** : Une réservation doit inclure le choix d’une ou plusieurs places.  
-- **RG36** : Le client doit recevoir un e-mail avec le billet au moment de la réservation.
+- **RG36** : Le client doit recevoir un e-mail contenant son billet après la réservation
+- **RG37** : Une réservation peut inclure une ou plusieurs escales.
 
 ---
 
 ## Compagnie
 
-- **RG37** : Une compagnie peut créer un vol.  
-- **RG38** : Une compagnie peut modifier un vol.  
-- **RG39** : Une compagnie peut annuler un vol.  
-- **RG40** : Une compagnie doit avoir un nom.  
-- **RG41** : Une compagnie doit fournir des informations sur son vol.  
+- **RG38** : Une compagnie peut créer un vol.  
+- **RG39** : Une compagnie peut modifier un vol.  
+- **RG40** : Une compagnie peut annuler un vol.  
+- **RG41** : Une compagnie doit avoir un nom.  
+- **RG42** : Une compagnie doit fournir des informations sur son vol.  
 
 ---
 
 ## Vol
 
-- **RG42** : Un vol doit avoir une heure de départ.  
-- **RG43** : Un vol doit avoir une heure d’arrivée.  
-- **RG44** : Un vol peut être modifié.  
-- **RG45** : Un vol doit être associé à une compagnie aérienne.  
-- **RG46** : Un vol peut être créé.  
-- **RG47** : Un vol peut être annulé.  
-- **RG48** : Un vol doit proposer des places uniques.  
-- **RG49** : Un vol doit avoir des réservations disponibles.
+- **RG43** : Un vol doit avoir une heure de départ.  
+- **RG44** : Un vol doit avoir une heure d’arrivée.  
+- **RG45** : Un vol peut être modifié.  
+- **RG46** : Un vol doit être associé à une compagnie aérienne.  
+- **RG47** : Un vol peut être créé.  
+- **RG48** : Un vol peut être annulé.  
+- **RG49** : Un vol doit proposer des places uniques.  
+- **RG50** : Un vol doit avoir des réservations disponibles.
 
 ---
 
 ## Passagers
 
-- **RG50** : Un passager peut embarquer dans un vol.  
-- **RG51** : Un passager doit avoir son nom sur son billet.  
+- **RG51** : Un passager peut embarquer dans un vol.  
+- **RG52** : Un passager doit avoir son nom sur son billet.  
 - **RG53** : Un passager doit avoir son prénom sur son billet.  
 - **RG54** : Un passager doit avoir son passeport.  
 - **RG55** : Un passager doit avoir une place unique.
