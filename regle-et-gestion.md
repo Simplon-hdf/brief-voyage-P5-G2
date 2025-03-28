@@ -41,7 +41,7 @@
 - **RG32** : Une réservation doit avoir un aéroport d’arrivée.
 - **RG33** : Une réservation doit avoir un horaire.  
 - **RG34** : Une réservation doit avoir un prix.  
-- **RG35** : Une réservation doit inclure le choix d’une ou plusieur place.  
+- **RG35** : Une réservation doit inclure le choix d’une ou plusieurs places.  
 - **RG36** : Le client doit recevoir un e-mail avec le billet au moment de la réservation.
 
 ---
