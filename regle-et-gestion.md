@@ -76,7 +76,7 @@
 
 ---
 
-# Avion
+## Avion
 
 - **RG52** : Un avion doit être associé à une compagnie aérienne.
 - **RG53** : Un avion doit proposer des places uniques.
@@ -84,7 +84,7 @@
 
 ---
 
-# Aéroport
+## Aéroport
 
 - **RG55** : Un aéroport doit avoir une ville.
 - **RG56** : Un aéroport doit avoir un nom.
